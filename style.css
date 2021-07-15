@@ -1,0 +1,35 @@
+
+
+
+
+
+
+
+table{ font-family: Helvitica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: focus;
+    border-color:chocolate;
+    
+}
+    
+th{
+font-weight: 800;
+    background-color: burlywood;
+    color: #ffffff;
+}
+
+
+menu-bar{
+    color: #990072
+    font-size: 18px;
+    font-weight: 800;
+    text-decoration: none;
+    
+   padding-left: 11px;
+    padding-right: 11px;       
+    
+}
+
+
+
